@@ -4,7 +4,7 @@
 Sou apaixonado por tecnologia, desenvolvimento de software e estou sempre em busca de aprendizado.
 
 ## 🚀 Tecnologias e Ferramentas
-- Linguagens: JavaScript, PHP, Java
+- Linguagens: JavaScript, PHP
 - Frameworks: React, Node.js, Spring Boot
 - Banco de Dados: MySQL
 - Ferramentas: Git, VSCode
