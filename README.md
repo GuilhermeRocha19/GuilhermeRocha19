@@ -1,12 +1,10 @@
-### Hi there 👋
+# Olá, eu sou Guilherme Rocha!
 
-<!--
-**GuilhermeRocha19/GuilhermeRocha19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuilhermeRocha19&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+## Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRocha19&layout=compact&theme=radical)
 
-- 🔭 Hoje trabalho com Back-end.
-- 🌱 Estudando: TypeScript.
-- 📫 Contate: guilhermepmrocha@gmail.com
-
--->
+## Contribuições no Último Ano
+![Contribuições no Último Ano](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeRocha19&theme=radical)
