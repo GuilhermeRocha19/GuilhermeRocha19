@@ -1,3 +1,4 @@
+<center>
 # 👋 Olá, eu sou Guilherme Rocha!
 
 ## Sobre Mim
@@ -27,3 +28,5 @@ Sou apaixonado por tecnologia, desenvolvimento de software e estou sempre em bus
 ## Projetos em Destaque
 - [Projeto 1](https://github.com/GuilhermeRocha19/projeto1)
 - [Projeto 2](https://github.com/GuilhermeRocha19/projeto2)
+
+- </center>
