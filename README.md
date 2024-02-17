@@ -1,32 +1,32 @@
-<center>
-# 👋 Olá, eu sou Guilherme Rocha!
 
-## Sobre Mim
-Sou apaixonado por tecnologia, desenvolvimento de software e estou sempre em busca de aprendizado.
+<img src = "banner.gif" width = "325px" align = "right">
 
-## 🚀 Tecnologias e Ferramentas
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-
-
-<div style="display: flex; justify-content: space-between;">
-
-  ## Linguagens Mais Usadas
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRocha19&layout=compact&theme=radical)
-
-  ## 📬 Entre em Contato
-  - LinkedIn: [Guilherme Rocha](https://www.linkedin.com/in/seuperfil)
-  - Twitter: [@seutwitter](https://twitter.com/seutwitter)
-
+# ❤ Olá, bom ter você por aqui!
+  <div id="badges">
+  <a href = "https://github.com/risoflorais">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-## Projetos em Destaque
-- [Projeto 1](https://github.com/GuilhermeRocha19/projeto1)
-- [Projeto 2](https://github.com/GuilhermeRocha19/projeto2)
 
-- </center>
+- ❤ Desenvolvedor Full Stack.
+- 💙 Aprendendo algo sobre TypeScript.
+- 👩‍💻 Estudo diário!
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRocha19&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRocha19&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
