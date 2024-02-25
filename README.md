@@ -10,7 +10,7 @@
 
 
 - ❤ Desenvolvedor Full Stack.
-- 💙 Aprendendo algo sobre TypeScript.
+- 💙 Aprendendo algo sobre NodeJS.
 - 👩‍💻 Estudo diário!
 
 <div>
