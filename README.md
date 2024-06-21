@@ -10,7 +10,7 @@
 
 
 - ❤ Desenvolvedor Full Stack.
-- 💙 Aprendendo algo sobre NodeJS.
+- 💙 Aprendendo algo sobre Laravel.
 - 👩‍💻 Estudo diário!
 
 <div>
