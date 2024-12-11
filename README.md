@@ -8,11 +8,6 @@
   </a>
 </div>
 
-
-- ❤ Desenvolvedor Full Stack.
-- 💙 Aprendendo algo sobre Laravel.
-- 👩‍💻 Estudo diário!
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="node" alt="node" width="40" height="40"/>&nbsp;
